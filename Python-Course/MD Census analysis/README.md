@@ -1,1 +1,6 @@
+#### Members: Nhi Luu, Anastasiya Golikova, Maryam Abdur-Rahman, Madji Lodoumgoto, Sharifa Yar, Lloyd Jones
+### Project Title: Maryland Census Data Analysis and Visualization
+
+Throughout the semester, we learned about various Python features and applied it to our data-driven project. The Maryland Census project provides an overall view of Maryland characteristics by leveraging large amounts of data through APIs and government databases to generate statistical analysis and visualizations. The aspects of the MD Census Data that we are addressing include Population, Housing, Ethnicities, Age, Employment, and Education in Maryland communities. 
+The project required us to access government census databases and extract necessary information to answer our relative questions pertaining to each characteristic mentioned. We incorporated the use of Pandas dataframes, APIs, python functions, and packages to conduct our data analysis. Furthermore, we have utilized several visualization tools, such as matplotlib, wordcloud, plotly, geopandas to accompany our analysis. Through trial and error, we were able to present this large-yet-small MD Census analysis as a practical group project from the skills we learned throughout the course. 
 
